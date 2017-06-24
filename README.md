@@ -4,7 +4,7 @@
 
 ##### Requirements: (1) it is a company (for instance, you hire developers other than the company owners) and (2) it sponsors open source projects (e.g. through OpenCollective or Patreon or direct donations).
 
-#### Each company should: (1) have a name, (2) have a link to blog post or page demonstrating that you sponsor some open source projects or employee hobby projects.
+##### Each company should: (1) have a name, (2) have a link to blog post or page demonstrating that you sponsor some open source projects or employee hobby projects.
 
 # Austria
 
