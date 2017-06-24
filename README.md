@@ -50,6 +50,7 @@
 - [Langa](https://opencollective.com/langa)
 - [Mapzen](https://opencollective.com/mapzen)
 - [Modus Create](https://opencollective.com/moduscreate)
+- [NoRedInk](http://tech.noredink.com/post/136615783598/welcome-evan)
 - [PubNub](https://opencollective.com/pubnub)
 - [Rollbar](https://opencollective.com/rollbar)
 - [Sauce Labs](https://opencollective.com/saucelabs)
