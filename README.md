@@ -18,6 +18,7 @@
 
 - [Algolia](https://opencollective.com/algolia)
 - [Docparser](https://opencollective.com/docparser)
+- [IRILL](https://www.irill.org/pages/projects.html)
 
 # Germany
 
