@@ -50,6 +50,7 @@
 - [Langa](https://opencollective.com/langa)
 - [Mapzen](https://opencollective.com/mapzen)
 - [Modus Create](https://opencollective.com/moduscreate)
+- [Mozilla](https://www.mozilla.org/en-US/moss/)
 - [PubNub](https://opencollective.com/pubnub)
 - [Rollbar](https://opencollective.com/rollbar)
 - [Sauce Labs](https://opencollective.com/saucelabs)
