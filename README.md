@@ -47,6 +47,7 @@
 - [Knight Foundation](https://opencollective.com/knightfdn)
 - [I Done This](https://opencollective.com/idonethis)
 - [Iron.io](https://opencollective.com/getiron)
+- [Icons8](https://icons8.com/icon)
 - [Jared Palmer](https://opencollective.com/jaredpalmer)
 - [Langa](https://opencollective.com/langa)
 - [Mapzen](https://opencollective.com/mapzen)
