@@ -28,6 +28,10 @@
 - [reBuy](https://opencollective.com/rebuy)
 - [Sebastian Software](https://opencollective.com/sebastiansoft)
 
+# Switzerland
+
+- [Adfinis SyGroup](https://www.adfinis-sygroup.ch/en/about/engagement.html)
+
 # UK
 
 - [ag-Grid](https://opencollective.com/ag-grid)
