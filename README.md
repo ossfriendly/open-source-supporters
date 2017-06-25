@@ -66,6 +66,9 @@
 - [Yahoo!](https://opencollective.com/yahoo)
 - [ZEIT](https://opencollective.com/zeit)
 
+# India
+- [BrowserStack](https://www.browserstack.com/)
+
 # Unknown country
 
 - [React.js Program](https://opencollective.com/reactjsprogram)
