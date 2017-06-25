@@ -66,7 +66,9 @@
 - [Yahoo!](https://opencollective.com/yahoo)
 - [ZEIT](https://opencollective.com/zeit)
 
-# Unknown country
+# Remote / Unknown country
 
+
+- [GitLab](https://gitlab.com/)
 - [React.js Program](https://opencollective.com/reactjsprogram)
 - [SoftwarePlant](https://opencollective.com/softwareplant)
