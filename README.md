@@ -19,6 +19,7 @@
 - [Algolia](https://opencollective.com/algolia)
 - [Docparser](https://opencollective.com/docparser)
 - [Marmelab](https://marmelab.com/blog/)
+- [Les-tilleuls.coop](https://les-tilleuls.coop/fr/blog)
 
 # Germany
 
