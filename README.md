@@ -22,6 +22,7 @@
 
 # Germany
 
+- [bitExpert AG](https://blog.bitexpert.de/opensource)
 - [Peerigon](https://opencollective.com/peerigon)
 - [reBuy](https://opencollective.com/rebuy)
 - [Sebastian Software](https://opencollective.com/sebastiansoft)
