@@ -18,6 +18,7 @@
 
 - [Algolia](https://opencollective.com/algolia)
 - [Docparser](https://opencollective.com/docparser)
+- [Gandi](https://www.gandi.net/supports)
 - [Marmelab](https://marmelab.com/blog/)
 
 # Germany
