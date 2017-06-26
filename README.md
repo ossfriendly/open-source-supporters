@@ -8,6 +8,7 @@
 
 # Austria
 
+- [cwd.at GmbH](https://cwd.at/)
 - [synedra IT GmbH](https://opencollective.com/jfellner)
 
 # Finland
