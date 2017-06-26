@@ -75,6 +75,7 @@
 - [Jared Palmer](https://opencollective.com/jaredpalmer)
 - [Langa](https://opencollective.com/langa)
 - [Mapzen](https://opencollective.com/mapzen)
+- [MicroPyramid](https://opencollective.com/micropyramid)
 - [Modus Create](https://opencollective.com/moduscreate)
 - [Mozilla](https://www.mozilla.org/en-US/moss/)
 - [NoRedInk](http://tech.noredink.com/post/136615783598/welcome-evan)
@@ -85,13 +86,12 @@
 - [Sentry.io](https://opencollective.com/sentry)
 - [StackPath](https://opencollective.com/stackpath)
 - [Sticker Mule](https://opencollective.com/stickermule)
+- [The Training Advisors](https://opencollective.com/thetrainingadvisors)
 - [Verizon](https://opencollective.com/verizon)
 - [VTEX](https://opencollective.com/vtex)
 - [X-Team](https://opencollective.com/xteam)
 - [Yahoo!](https://opencollective.com/yahoo)
 - [ZEIT](https://opencollective.com/zeit)
-- [MicroPyramid](https://opencollective.com/micropyramid)
-- [The Training Advisors](https://opencollective.com/thetrainingadvisors)
 
 # Unknown country
 
