@@ -39,9 +39,14 @@
 
 # Germany
 
+- [Futurice GmbH](https://spiceprogram.org)
 - [Peerigon](https://opencollective.com/peerigon)
 - [reBuy](https://opencollective.com/rebuy)
 - [Sebastian Software](https://opencollective.com/sebastiansoft)
+
+# Sweden
+
+- [Futurice](https://spiceprogram.org)
 
 # Switzerland
 
@@ -49,6 +54,7 @@
 
 # UK
 
+- [Futurice Ltd](https://spiceprogram.org)
 - [ag-Grid](https://opencollective.com/ag-grid)
 
 # USA
