@@ -55,7 +55,7 @@
 
 - [8th Light](https://opencollective.com/8thlight)
 - [Accelebrate](https://opencollective.com/accelebrate)
-- [AngularClass](https://angularclass.com)
+- [AngularClass](https://opencollective.com/angularclass)
 - [Auth0](https://opencollective.com/auth0)
 - [Aviture Inc.](https://opencollective.com/contact4)
 - [Capital One](https://opencollective.com/capitalone)
