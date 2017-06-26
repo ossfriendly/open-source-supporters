@@ -1,10 +1,11 @@
 ## A list of companies that sponsor open source software
 
+**The goal of this list** is to highlight companies who pay back to open source projects that are helping them to save time and money. Open source maintainers are often an invisible and underfunded workforce behind our informational infrastructure. With this list we would like to encourage more companies to be aware of that and play active role in supporting our common grounds.
+
 ##### Feel free to send a PR to update this document.
 
 <details>
 <summary><em>Click here to read the criteria to be on this list</em></summary>
-<p><strong>The goal of this list</strong> is to highlight companies who pay back to open source projects that are helping them to save time and money. Open source maintainers are often an invisible and underfunded workforce behind our informational infrastructure. With this list we would like to encourage more companies to be aware of that and play active role in supporting our common grounds.</p>
   <h3>Definitions</h3>
   <ul>
     <li>COMPANY: a legal entity made to generate profit.</li>
