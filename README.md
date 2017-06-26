@@ -55,6 +55,7 @@
 
 - [8th Light](https://opencollective.com/8thlight)
 - [Accelebrate](https://opencollective.com/accelebrate)
+- [AngularClass](https://angularclass.com)
 - [Auth0](https://opencollective.com/auth0)
 - [Aviture Inc.](https://opencollective.com/contact4)
 - [Capital One](https://opencollective.com/capitalone)
@@ -80,6 +81,7 @@
 - [Mozilla](https://www.mozilla.org/en-US/moss/)
 - [NoRedInk](http://tech.noredink.com/post/136615783598/welcome-evan)
 - [PubNub](https://opencollective.com/pubnub)
+- [React.js Program](https://opencollective.com/reactjsprogram)
 - [Rollbar](https://opencollective.com/rollbar)
 - [Sauce Labs](https://opencollective.com/saucelabs)
 - [Segment](https://opencollective.com/segment)
@@ -95,5 +97,4 @@
 
 # Unknown country
 
-- [React.js Program](https://opencollective.com/reactjsprogram)
 - [SoftwarePlant](https://opencollective.com/softwareplant)
