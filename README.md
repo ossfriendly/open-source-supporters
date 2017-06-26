@@ -13,6 +13,7 @@
 # Finland
 
 - [Futurice Oy](https://spiceprogram.org/)
+- [SurviveJS Oy](https://survivejs.com/)
 
 # France
 
