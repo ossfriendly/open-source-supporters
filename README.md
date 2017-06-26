@@ -78,6 +78,7 @@
 - [Modus Create](https://opencollective.com/moduscreate)
 - [Mozilla](https://www.mozilla.org/en-US/moss/)
 - [NoRedInk](http://tech.noredink.com/post/136615783598/welcome-evan)
+- [PayPal](https://github.com/paypal)
 - [PubNub](https://opencollective.com/pubnub)
 - [Rollbar](https://opencollective.com/rollbar)
 - [Sauce Labs](https://opencollective.com/saucelabs)
