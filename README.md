@@ -75,6 +75,8 @@
 - [X-Team](https://opencollective.com/xteam)
 - [Yahoo!](https://opencollective.com/yahoo)
 - [ZEIT](https://opencollective.com/zeit)
+- [MicroPyramid](https://opencollective.com/micropyramid)
+- [The Training Advisors](https://opencollective.com/thetrainingadvisors)
 
 # Unknown country
 
