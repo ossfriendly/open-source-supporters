@@ -2,9 +2,23 @@
 
 ##### Feel free to send a PR to update this document.
 
-##### Requirements: (1) it is a company (for instance, you hire developers other than the company owners) and (2) it sponsors open source projects (e.g. through OpenCollective, Patreon, direct donations or time for employees).
-
-##### Each company should: (1) have a name, (2) have a link to blog post or page demonstrating that you sponsor some open source projects or employee hobby projects.
+<details>
+<summary><em>Click here to read the criteria to be on this list</em></summary>
+<p><strong>The goal of this list</strong> is to highlight companies which do the right thing by paying back to open source projects, because IT companies are often use hundreds of open source projects as a foundation for their software. Open source development is clearly very important for IT systems and products used world-wide, so sponsoring open source must become commonplace. This list is meant to encourage sponsoring practices.</p>
+  <h3>Definitions</h3>
+  <ul>
+    <li>COMPANY: a legal entity made to generate to profit.</li>
+    <li>OPEN SOURCE PROJECT: any project under one of the licenses that comply with the open source definition as listed (and defined) on https://opensource.org/licenses</li>
+    <li>THIRD-PARTY OPEN SOURCE PROJECT: an OPEN SOURCE PROJECT licensed under a different name to the COMPANY in question.</li>
+    <li>SPONSOR (verb): to donate money to maintainers of an OPEN SOURCE PROJECT, or to allocate time for employees to contribute to OPEN SOURCE PROJECTS.</li>
+  </ul>
+  <h3>Criteria for inclusion</h3>
+  <p>In order for an entry to be accepted into this list, the following criteria must be met</p>
+  <ul>
+    <li>Each entry is a COMPANY which systematically SPONSORS some THIRD-PARTY OPEN SOURCE PROJECTS.</li>
+    <li>Each entry should list the: (1) COMPANY name, (2) link(s) to blog post or page proving the sponsorship.</li>
+  </ul>
+</details> 
 
 # Austria
 
