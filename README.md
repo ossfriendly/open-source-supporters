@@ -53,6 +53,7 @@
 - [Google](https://opencollective.com/google)
 - [Knight Foundation](https://opencollective.com/knightfdn)
 - [I Done This](https://opencollective.com/idonethis)
+- [IBM](http://www-03.ibm.com/press/us/en/pressrelease/41926.wss)
 - [Iron.io](https://opencollective.com/getiron)
 - [Icons8](https://icons8.com/icon)
 - [Jared Palmer](https://opencollective.com/jaredpalmer)
