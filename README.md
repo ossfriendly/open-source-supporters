@@ -20,7 +20,7 @@
 - [Docparser](https://opencollective.com/docparser)
 - [Gandi](https://www.gandi.net/supports)
 - [Marmelab](https://marmelab.com/blog/)
-- [Les-tilleuls.coop](https://les-tilleuls.coop/fr/blog)
+- [Les-Tilleuls.coop](https://les-tilleuls.coop/fr/blog)
 
 # Germany
 
