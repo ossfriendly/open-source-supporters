@@ -50,6 +50,7 @@
 - [egghead.io](https://opencollective.com/joelhooks)
 - [Evil Martians](https://evilmartians.com/#oss)
 - [Frontend Masters](https://opencollective.com/frontendmasters)
+- [GitHub](https://fosster.herokuapp.com/) ([.](https://www.linuxfoundation.org/members/corporate)[.](https://www.freexian.com/en/services/debian-lts.html)[.](https://opencollective.com/github))
 - [Google](https://opencollective.com/google)
 - [Knight Foundation](https://opencollective.com/knightfdn)
 - [I Done This](https://opencollective.com/idonethis)
