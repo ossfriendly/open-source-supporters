@@ -4,7 +4,7 @@
 
 <details>
 <summary><em>Click here to read the criteria to be on this list</em></summary>
-<p><strong>The goal of this list</strong> is to highlight companies which do the right thing by paying back to open source projects, because IT companies often use hundreds of open source projects as a foundation for their software. Open source development is clearly very important for IT systems and products used world-wide, so sponsoring open source must become commonplace. This list is meant to encourage sponsoring practices.</p>
+<p><strong>The goal of this list</strong> is to highlight companies who pay back to open source projects that are helping them to save time and money. Open source maintainers are often an invisible and underfunded workforce behind our informational infrastructure. With this list we would like to encourage more companies to be aware of that and play active role in supporting our common grounds.</p>
   <h3>Definitions</h3>
   <ul>
     <li>COMPANY: a legal entity made to generate profit.</li>
