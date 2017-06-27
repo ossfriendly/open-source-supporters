@@ -101,6 +101,7 @@
 - [Langa](https://opencollective.com/langa)
 - [Mapzen](https://opencollective.com/mapzen)
 - [MicroPyramid](https://opencollective.com/micropyramid)
+- [Microsoft](https://opensource.microsoft.com/)
 - [Minutes.io](https://opencollective.com/minutes_io)
 - [Modus Create](https://opencollective.com/moduscreate)
 - [Mozilla](https://www.mozilla.org/en-US/moss/)
