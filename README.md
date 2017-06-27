@@ -66,6 +66,7 @@
 
 # 🇺🇸 USA
 
+- [47 Degrees](https://47deg.github.io)
 - [8th Light](https://opencollective.com/8thlight)
 - [Accelebrate](https://opencollective.com/accelebrate)
 - [AngularClass](https://opencollective.com/angularclass)
