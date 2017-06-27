@@ -26,6 +26,10 @@
 - [cwd.at GmbH](https://cwd.at/)
 - [synedra IT GmbH](https://opencollective.com/jfellner)
 
+# 🇧🇬 Bulgaria
+
+- [HackSoft](https://hacksoft.io/blog/on-supporting-open-source-the-first-steps/)
+
 # 🇫🇮 Finland
 
 - [Futurice Oy](https://spiceprogram.org/)
