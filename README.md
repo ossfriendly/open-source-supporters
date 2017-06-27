@@ -54,8 +54,8 @@
 
 # UK
 
-- [Futurice Ltd](https://spiceprogram.org)
 - [ag-Grid](https://opencollective.com/ag-grid)
+- [Futurice Ltd](https://spiceprogram.org)
 
 # USA
 
