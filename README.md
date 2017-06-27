@@ -43,6 +43,10 @@
 - [reBuy](https://opencollective.com/rebuy)
 - [Sebastian Software](https://opencollective.com/sebastiansoft)
 
+# 🇵🇱 Poland
+
+- [SoftwarePlant](https://opencollective.com/softwareplant)
+
 # 🇨🇭 Switzerland
 
 - [Adfinis SyGroup](https://www.adfinis-sygroup.ch/en/about/engagement.html)
@@ -95,6 +99,3 @@
 - [Yahoo!](https://opencollective.com/yahoo)
 - [ZEIT](https://opencollective.com/zeit)
 
-# Unknown country
-
-- [SoftwarePlant](https://opencollective.com/softwareplant)
