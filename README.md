@@ -66,7 +66,7 @@
 
 # 🇺🇸 USA
 
-- [47 Degrees](https://47deg.github.io)
+- [47 Degrees](https://47deg.github.io) ([.](https://www.47deg.com/blog/ensime-sponsorship/))
 - [8th Light](https://opencollective.com/8thlight)
 - [Accelebrate](https://opencollective.com/accelebrate)
 - [AngularClass](https://opencollective.com/angularclass)
