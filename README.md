@@ -33,6 +33,8 @@
 # 🇫🇮 Finland
 
 - [Futurice Oy](https://spiceprogram.org/)
+- [Metosin Oy](http://www.metosin.fi/metosin/) ([.](https://github.com/metosin))
+- [Reaktor Oy](http://bluebirdjs.com/docs/getting-started.html)
 
 # 🇫🇷 France
 
