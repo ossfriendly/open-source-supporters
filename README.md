@@ -21,15 +21,15 @@
   </ul>
 </details> 
 
-# Austria
+# 🇦🇹 Austria
 
 - [synedra IT GmbH](https://opencollective.com/jfellner)
 
-# Finland
+# 🇫🇮 Finland
 
 - [Futurice Oy](https://spiceprogram.org/)
 
-# France
+# 🇫🇷 France
 
 - [Algolia](https://opencollective.com/algolia)
 - [Docparser](https://opencollective.com/docparser)
@@ -37,25 +37,25 @@
 - [Marmelab](https://marmelab.com/blog/)
 - [Les-Tilleuls.coop](https://les-tilleuls.coop/fr/blog)
 
-# Germany
+# 🇩🇪 Germany
 
 - [Peerigon](https://opencollective.com/peerigon)
 - [reBuy](https://opencollective.com/rebuy)
 - [Sebastian Software](https://opencollective.com/sebastiansoft)
 
-# Poland
+# 🇵🇱 Poland
 
 - [SoftwarePlant](https://opencollective.com/softwareplant)
 
-# Switzerland
+# 🇨🇭 Switzerland
 
 - [Adfinis SyGroup](https://www.adfinis-sygroup.ch/en/about/engagement.html)
 
-# UK
+# 🇬🇧 UK
 
 - [ag-Grid](https://opencollective.com/ag-grid)
 
-# USA
+# 🇺🇸 USA
 
 - [8th Light](https://opencollective.com/8thlight)
 - [Accelebrate](https://opencollective.com/accelebrate)
