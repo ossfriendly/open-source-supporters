@@ -52,6 +52,10 @@
 
 - [SoftwarePlant](https://opencollective.com/softwareplant)
 
+# 🇿🇦 South Africa
+
+- [Full Stack](https://opencollective.com/fullstack)
+
 # 🇨🇭 Switzerland
 
 - [Adfinis SyGroup](https://www.adfinis-sygroup.ch/en/about/engagement.html)
@@ -69,7 +73,11 @@
 - [Aviture Inc.](https://opencollective.com/contact4)
 - [Capital One](https://opencollective.com/capitalone)
 - [Clevertech](https://opencollective.com/michellemcfarland)
+- [Contentful](https://opencollective.com/contentful)
+- [Craft CMS](https://opencollective.com/craftcms)
+- [Crossaint](https://opencollective.com/croissant)
 - [CrossBrowserTesting](https://opencollective.com/crossbrowsertesting)
+- [Datadog](https://opencollective.com/datadog)
 - [Digirati](https://opencollective.com/johnbaker)
 - [DigitalOcean](https://opencollective.com/digitalocean)
 - [egghead.io](https://opencollective.com/joelhooks)
@@ -77,6 +85,7 @@
 - [Frontend Masters](https://opencollective.com/frontendmasters)
 - [GitHub](https://fosster.herokuapp.com/) ([.](https://www.linuxfoundation.org/members/corporate)[.](https://www.freexian.com/en/services/debian-lts.html)[.](https://opencollective.com/github))
 - [Google](https://opencollective.com/google)
+- [Hubspot](https://opencollective.com/hubspot)
 - [Knight Foundation](https://opencollective.com/knightfdn)
 - [I Done This](https://opencollective.com/idonethis)
 - [IBM](http://www-03.ibm.com/press/us/en/pressrelease/41926.wss)
@@ -86,20 +95,25 @@
 - [Langa](https://opencollective.com/langa)
 - [Mapzen](https://opencollective.com/mapzen)
 - [MicroPyramid](https://opencollective.com/micropyramid)
+- [Minutes.io](https://opencollective.com/minutes_io)
 - [Modus Create](https://opencollective.com/moduscreate)
 - [Mozilla](https://www.mozilla.org/en-US/moss/)
 - [NoRedInk](http://tech.noredink.com/post/136615783598/welcome-evan)
+- [Open Listings](https://opencollective.com/openlistings)
 - [PubNub](https://opencollective.com/pubnub)
+- [React Native Training](https://opencollective.com/reactnativetraining)
 - [React.js Program](https://opencollective.com/reactjsprogram)
 - [Rollbar](https://opencollective.com/rollbar)
 - [Sauce Labs](https://opencollective.com/saucelabs)
 - [Segment](https://opencollective.com/segment)
 - [Sentry.io](https://opencollective.com/sentry)
+- [Serverless Framework](https://opencollective.com/goserverless)
 - [StackPath](https://opencollective.com/stackpath)
 - [Sticker Mule](https://opencollective.com/stickermule)
 - [The Training Advisors](https://opencollective.com/thetrainingadvisors)
 - [Verizon](https://opencollective.com/verizon)
 - [VTEX](https://opencollective.com/vtex)
+- [Waffle.io](https://opencollective.com/waffleio)
 - [X-Team](https://opencollective.com/xteam)
 - [Yahoo!](https://opencollective.com/yahoo)
 - [ZEIT](https://opencollective.com/zeit)
