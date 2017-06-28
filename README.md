@@ -40,6 +40,7 @@
 - [Algolia](https://opencollective.com/algolia)
 - [Docparser](https://opencollective.com/docparser)
 - [Gandi](https://www.gandi.net/supports)
+- [Keymetrics/PM2](https://keymetrics.io/)
 - [Marmelab](https://marmelab.com/blog/)
 - [Les-Tilleuls.coop](https://les-tilleuls.coop/fr/blog)
 
