@@ -30,6 +30,10 @@
 
 - [HackSoft](https://hacksoft.io/blog/on-supporting-open-source-the-first-steps/)
 
+# 🇨🇳 China
+
+- [YouSails](https://yousails.com/)
+
 # 🇫🇮 Finland
 
 - [Futurice Oy](https://spiceprogram.org/)
