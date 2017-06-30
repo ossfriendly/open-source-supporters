@@ -77,6 +77,7 @@
 - [Aviture Inc.](https://opencollective.com/contact4)
 - [Capital One](https://opencollective.com/capitalone)
 - [Clevertech](https://opencollective.com/michellemcfarland)
+- [Comcast](http://innovationfund.comcast.com/)
 - [Contentful](https://opencollective.com/contentful)
 - [Craft CMS](https://opencollective.com/craftcms)
 - [Crossaint](https://opencollective.com/croissant)
