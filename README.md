@@ -30,6 +30,10 @@
 
 - [HackSoft](https://hacksoft.io/blog/on-supporting-open-source-the-first-steps/)
 
+# 🇨🇿 Czech Republic
+
+- [Avocode](https://avocode.com/)
+
 # 🇫🇮 Finland
 
 - [Futurice Oy](https://spiceprogram.org/)
