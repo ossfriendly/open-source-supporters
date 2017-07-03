@@ -66,6 +66,7 @@
 # 🇬🇧 UK
 
 - [ag-Grid](https://opencollective.com/ag-grid)
+- [Codethink Ltd.](https://www.codethink.co.uk/) ([.](https://www.openhub.net/orgs/codethink)[.](https://www.genivi.org/genivi-members)[.](https://www.linuxfoundation.org/members/corporate)[.](http://stackalytics.com/?release=all&company=codethink&metric=commits)[.](http://baserock.org/))
 
 # 🇺🇸 USA
 
