@@ -101,7 +101,7 @@
 - [Langa](https://opencollective.com/langa)
 - [Mapzen](https://opencollective.com/mapzen)
 - [MicroPyramid](https://opencollective.com/micropyramid)
-- [Microsoft](https://opensource.microsoft.com/)
+- [Microsoft](https://opensource.microsoft.com/) ([.](http://www.apache.org/foundation/thanks.html)[.](https://www.linuxfoundation.org/members/corporate)[.](https://www.theverge.com/2016/9/15/12926288/microsoft-really-does-love-linux))
 - [Minutes.io](https://opencollective.com/minutes_io)
 - [Modus Create](https://opencollective.com/moduscreate)
 - [Mozilla](https://www.mozilla.org/en-US/moss/)
