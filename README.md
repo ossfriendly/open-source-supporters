@@ -44,6 +44,7 @@
 - [Keymetrics](https://keymetrics.io/) ([.](http://pm2.keymetrics.io/))
 - [Marmelab](https://marmelab.com/blog/)
 - [Les-Tilleuls.coop](https://les-tilleuls.coop/fr/blog)
+- [Talend](https://www.talend.com/)
 
 # 🇩🇪 Germany
 
