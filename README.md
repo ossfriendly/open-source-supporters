@@ -19,7 +19,7 @@
     <li>Each entry is a COMPANY which systematically SUPPORTS some THIRD-PARTY OPEN SOURCE PROJECTS.</li>
     <li>Each entry should list the: (1) COMPANY name, (2) link(s) to blog post or page proving the support.</li>
   </ul>
-</details> 
+</details>
 
 # 🇦🇹 Austria
 
@@ -29,6 +29,10 @@
 # 🇧🇬 Bulgaria
 
 - [HackSoft](https://hacksoft.io/blog/on-supporting-open-source-the-first-steps/)
+
+# 🇭🇷 Croatia
+
+- [Infinum](https://infinum.co/our-stuff#open-source)
 
 # 🇫🇮 Finland
 
