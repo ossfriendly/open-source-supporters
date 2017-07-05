@@ -26,6 +26,10 @@
 - [cwd.at GmbH](https://cwd.at/)
 - [synedra IT GmbH](https://opencollective.com/jfellner)
 
+# 🇧🇪 Belgium
+
+- [Timble](https://www.timble.net/open-source/)
+
 # 🇧🇬 Bulgaria
 
 - [HackSoft](https://hacksoft.io/blog/on-supporting-open-source-the-first-steps/)
