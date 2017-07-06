@@ -116,6 +116,7 @@
 - [Segment](https://opencollective.com/segment)
 - [Sentry.io](https://opencollective.com/sentry)
 - [Serverless Framework](https://opencollective.com/goserverless)
+- [SlamData](http://slamdata.com)
 - [StackPath](https://opencollective.com/stackpath)
 - [Sticker Mule](https://opencollective.com/stickermule)
 - [The Training Advisors](https://opencollective.com/thetrainingadvisors)
