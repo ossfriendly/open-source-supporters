@@ -77,6 +77,7 @@
 - [AngularClass](https://opencollective.com/angularclass)
 - [Auth0](https://opencollective.com/auth0)
 - [Aviture Inc.](https://opencollective.com/contact4)
+- [Canopy Tax](https://canopytax.github.io/post/systemjs-sponsorship/)
 - [Capital One](https://opencollective.com/capitalone)
 - [Clevertech](https://opencollective.com/michellemcfarland)
 - [Comcast](http://innovationfund.comcast.com/)
