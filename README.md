@@ -34,6 +34,10 @@
 
 - [HackSoft](https://hacksoft.io/blog/on-supporting-open-source-the-first-steps/)
 
+# 🇧🇷 Brazil
+
+- [VTEX](https://opencollective.com/vtex)
+
 # 🇫🇮 Finland
 
 - [Futurice Oy](https://spiceprogram.org/)
