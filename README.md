@@ -94,6 +94,7 @@
 - [DigitalOcean](https://opencollective.com/digitalocean)
 - [egghead.io](https://opencollective.com/joelhooks)
 - [Evil Martians](https://evilmartians.com/#oss)
+- [Facebook](https://code.facebook.com/projects/) ([.](https://www.linuxfoundation.org/members/corporate)[.](http://www.apache.org/foundation/thanks.html)[.](http://www.opencompute.org/about/membership-organizational-directory/))
 - [Frontend Masters](https://opencollective.com/frontendmasters)
 - [GitHub](https://fosster.herokuapp.com/) ([.](https://www.linuxfoundation.org/members/corporate)[.](https://www.freexian.com/en/services/debian-lts.html)[.](https://opencollective.com/github))
 - [Google](https://opensource.google.com/community/affiliations/)
