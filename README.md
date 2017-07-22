@@ -129,5 +129,6 @@
 - [Waffle.io](https://opencollective.com/waffleio)
 - [X-Team](https://opencollective.com/xteam)
 - [Yahoo!](https://opencollective.com/yahoo)
+- [Yelp](https://yelp.github.io)
 - [ZEIT](https://opencollective.com/zeit)
 
