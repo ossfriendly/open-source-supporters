@@ -87,6 +87,7 @@
 - [47 Degrees](https://47deg.github.io) ([.](https://www.47deg.com/blog/ensime-sponsorship/))
 - [8th Light](https://opencollective.com/8thlight)
 - [Accelebrate](https://opencollective.com/accelebrate)
+- [Airbnb](http://airbnb.io/projects/) 
 - [AngularClass](https://opencollective.com/angularclass)
 - [Auth0](https://opencollective.com/auth0)
 - [Aviture Inc.](https://opencollective.com/contact4)
