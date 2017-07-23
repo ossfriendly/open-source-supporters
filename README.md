@@ -94,6 +94,7 @@
 - [DigitalOcean](https://opencollective.com/digitalocean)
 - [egghead.io](https://opencollective.com/joelhooks)
 - [Evil Martians](https://evilmartians.com/#oss)
+- [Expo](https://blog.expo.io/putting-your-money-where-your-package-json-is-e34a35099a1b)[.](https://www.patreon.com/expoio)
 - [Frontend Masters](https://opencollective.com/frontendmasters)
 - [GitHub](https://fosster.herokuapp.com/) ([.](https://www.linuxfoundation.org/members/corporate)[.](https://www.freexian.com/en/services/debian-lts.html)[.](https://opencollective.com/github))
 - [Google](https://opensource.google.com/community/affiliations/)
