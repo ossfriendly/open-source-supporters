@@ -124,6 +124,7 @@
 - [StackPath](https://opencollective.com/stackpath)
 - [Sticker Mule](https://opencollective.com/stickermule)
 - [The Training Advisors](https://opencollective.com/thetrainingadvisors)
+- [ThoughtWorks](https://www.thoughtworks.com/open-source)
 - [Verizon](https://opencollective.com/verizon)
 - [VTEX](https://opencollective.com/vtex)
 - [Waffle.io](https://opencollective.com/waffleio)
