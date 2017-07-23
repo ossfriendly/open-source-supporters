@@ -81,6 +81,7 @@
 - [AngularClass](https://opencollective.com/angularclass)
 - [Auth0](https://opencollective.com/auth0)
 - [Aviture Inc.](https://opencollective.com/contact4)
+- [BlazeMeter](https://www.blazemeter.com/) ([.](http://jmeter.apache.org/changes_history.html)[.](http://www.jmeter-plugins.org/)[.](https://wiki.jenkins.io/display/JENKINS/Performance+Plugin))
 - [Canopy Tax](https://canopytax.github.io/post/systemjs-sponsorship/)
 - [Capital One](https://opencollective.com/capitalone)
 - [Clevertech](https://opencollective.com/michellemcfarland)
