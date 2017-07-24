@@ -21,6 +21,10 @@
   </ul>
 </details> 
 
+# 🇦🇺 Australia
+
+- [Thinkmill](https://thinkmill.com.au/) ([.](https://github.com/styled-components/styled-components)[.](http://keystonejs.com/))
+
 # 🇦🇹 Austria
 
 - [cwd.at GmbH](https://cwd.at/)
@@ -29,6 +33,10 @@
 # 🇧🇬 Bulgaria
 
 - [HackSoft](https://hacksoft.io/blog/on-supporting-open-source-the-first-steps/)
+
+# 🇧🇷 Brazil
+
+- [VTEX](https://opencollective.com/vtex)
 
 # 🇨🇿 Czech Republic
 
@@ -48,6 +56,7 @@
 - [Keymetrics](https://keymetrics.io/) ([.](http://pm2.keymetrics.io/))
 - [Marmelab](https://marmelab.com/blog/)
 - [Les-Tilleuls.coop](https://les-tilleuls.coop/fr/blog)
+- [Talend](https://www.talend.com/) ([.](http://coders.talend.com))
 
 # 🇩🇪 Germany
 
@@ -70,6 +79,7 @@
 # 🇬🇧 UK
 
 - [ag-Grid](https://opencollective.com/ag-grid)
+- [Codethink Ltd.](https://www.codethink.co.uk/) ([.](https://www.openhub.net/orgs/codethink)[.](https://www.genivi.org/genivi-members)[.](https://www.linuxfoundation.org/members/corporate)[.](http://stackalytics.com/?release=all&company=codethink&metric=commits)[.](http://baserock.org/))
 
 # 🇺🇸 USA
 
@@ -79,6 +89,7 @@
 - [AngularClass](https://opencollective.com/angularclass)
 - [Auth0](https://opencollective.com/auth0)
 - [Aviture Inc.](https://opencollective.com/contact4)
+- [Canopy Tax](https://canopytax.github.io/post/systemjs-sponsorship/)
 - [Capital One](https://opencollective.com/capitalone)
 - [Clevertech](https://opencollective.com/michellemcfarland)
 - [Comcast](http://innovationfund.comcast.com/)
@@ -91,6 +102,8 @@
 - [DigitalOcean](https://opencollective.com/digitalocean)
 - [egghead.io](https://opencollective.com/joelhooks)
 - [Evil Martians](https://evilmartians.com/#oss)
+- [Expo](https://blog.expo.io/putting-your-money-where-your-package-json-is-e34a35099a1b) ([.](https://www.patreon.com/expoio))
+- [Facebook](https://code.facebook.com/projects/) ([.](https://www.linuxfoundation.org/members/corporate)[.](http://www.apache.org/foundation/thanks.html)[.](http://www.opencompute.org/about/membership-organizational-directory/))
 - [Frontend Masters](https://opencollective.com/frontendmasters)
 - [GitHub](https://fosster.herokuapp.com/) ([.](https://www.linuxfoundation.org/members/corporate)[.](https://www.freexian.com/en/services/debian-lts.html)[.](https://opencollective.com/github))
 - [Google](https://opensource.google.com/community/affiliations/)
@@ -104,6 +117,7 @@
 - [Langa](https://opencollective.com/langa)
 - [Mapzen](https://opencollective.com/mapzen)
 - [MicroPyramid](https://opencollective.com/micropyramid)
+- [Microsoft](https://opensource.microsoft.com/) ([.](http://www.apache.org/foundation/thanks.html)[.](https://www.linuxfoundation.org/members/corporate)[.](https://www.theverge.com/2016/9/15/12926288/microsoft-really-does-love-linux))
 - [Minutes.io](https://opencollective.com/minutes_io)
 - [Modus Create](https://opencollective.com/moduscreate)
 - [Mozilla](https://www.mozilla.org/en-US/moss/)
@@ -120,6 +134,7 @@
 - [StackPath](https://opencollective.com/stackpath)
 - [Sticker Mule](https://opencollective.com/stickermule)
 - [The Training Advisors](https://opencollective.com/thetrainingadvisors)
+- [ThoughtWorks](https://www.thoughtworks.com/open-source)
 - [Verizon](https://opencollective.com/verizon)
 - [VTEX](https://opencollective.com/vtex)
 - [Waffle.io](https://opencollective.com/waffleio)
