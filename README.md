@@ -38,6 +38,10 @@
 
 - [VTEX](https://opencollective.com/vtex)
 
+# 🇨🇿 Czech Republic
+
+- [Avocode](https://avocode.com/)
+
 # 🇫🇮 Finland
 
 - [Futurice Oy](https://spiceprogram.org/)
