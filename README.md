@@ -54,8 +54,8 @@
 - [Docparser](https://opencollective.com/docparser)
 - [Gandi](https://www.gandi.net/supports)
 - [Keymetrics](https://keymetrics.io/) ([.](http://pm2.keymetrics.io/))
-- [Marmelab](https://marmelab.com/blog/)[.](https://github.com/marmelab/admin-on-rest)
-- [Les-Tilleuls.coop](https://les-tilleuls.coop/fr/blog)[.](https://github.com/api-platform)
+- [Marmelab](https://marmelab.com/blog/) ([.](https://github.com/marmelab/admin-on-rest))
+- [Les-Tilleuls.coop](https://les-tilleuls.coop/fr/blog) ([.](https://github.com/api-platform))
 - [Talend](https://www.talend.com/) ([.](http://coders.talend.com))
 
 # 🇩🇪 Germany
