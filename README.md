@@ -76,6 +76,7 @@
 # 🇨🇭 Switzerland
 
 - [Adfinis SyGroup](https://www.adfinis-sygroup.ch/en/about/engagement.html)
+- [Renuo AG](https://renuo.ch)
 
 # 🇬🇧 UK
 
