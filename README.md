@@ -47,6 +47,7 @@
 - [Futurice Oy](https://spiceprogram.org/)
 - [Metosin Oy](http://www.metosin.fi/en/metosin/)
 - [Reaktor Oy](http://bluebirdjs.com/docs/getting-started.html)
+- [Wunderdog Oy](https://medium.com/wunderdog-technology/open-to-good-ideas-514e02c30372)
 
 # 🇫🇷 France
 
