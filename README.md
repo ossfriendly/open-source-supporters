@@ -139,6 +139,7 @@
 - [Sticker Mule](https://opencollective.com/stickermule)
 - [The Training Advisors](https://opencollective.com/thetrainingadvisors)
 - [ThoughtWorks](https://www.thoughtworks.com/open-source)
+- [Triplebyte](https://opencollective.com/triplebyte)
 - [Verizon](https://opencollective.com/verizon)
 - [VTEX](https://opencollective.com/vtex)
 - [Waffle.io](https://opencollective.com/waffleio)
