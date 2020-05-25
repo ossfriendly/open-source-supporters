@@ -130,6 +130,7 @@
 - [PubNub](https://opencollective.com/pubnub)
 - [React Native Training](https://opencollective.com/reactnativetraining)
 - [React.js Program](https://opencollective.com/reactjsprogram)
+- [RemoteTeam.com](https://opencollective.com/remoteteamcom)
 - [Rollbar](https://opencollective.com/rollbar)
 - [Sauce Labs](https://opencollective.com/saucelabs)
 - [Segment](https://opencollective.com/segment)
