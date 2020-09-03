@@ -65,6 +65,7 @@
 - [reBuy](https://opencollective.com/rebuy)
 - [Sebastian Software](https://opencollective.com/sebastiansoft)
 - [sitegeist](https://sitegeist.de/) ([.](https://www.neos.io/events/neos-conference-hamburg-2017.html)[.](https://typo3.org/news/article/typo3-association-platinum-status-for-sitegeist/)[.](https://www.neos.io/contribute/donating-to-neos.html))
+- [trivago](https://opencollective.com/trivago)
 
 # 🇵🇱 Poland
 
