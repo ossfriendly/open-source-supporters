@@ -89,6 +89,7 @@
 
 - [47 Degrees](https://47deg.github.io) ([.](https://www.47deg.com/blog/ensime-sponsorship/))
 - [8th Light](https://opencollective.com/8thlight)
+- [Activeloop](https://activeloop.ai)
 - [Accelebrate](https://opencollective.com/accelebrate)
 - [AngularClass](https://opencollective.com/angularclass)
 - [Auth0](https://opencollective.com/auth0)
