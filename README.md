@@ -30,6 +30,10 @@
 - [cwd.at GmbH](https://cwd.at/)
 - [synedra IT GmbH](https://opencollective.com/jfellner)
 
+# 🇧🇪 Belgium
+
+- [Joomlatools](https://www.joomlatools.com/open-source/)
+
 # 🇧🇬 Bulgaria
 
 - [HackSoft](https://hacksoft.io/blog/on-supporting-open-source-the-first-steps/)
