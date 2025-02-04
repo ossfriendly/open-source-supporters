@@ -32,7 +32,7 @@
 
 # 🇧🇬 Bulgaria
 
-- [HackSoft](https://hacksoft.io/blog/on-supporting-open-source-the-first-steps/)
+- [HackSoft](https://hacksoft.io/open-source)
 
 # 🇧🇷 Brazil
 
