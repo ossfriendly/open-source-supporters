@@ -19,7 +19,7 @@
     <li>Each entry is a COMPANY which systematically SUPPORTS some THIRD-PARTY OPEN SOURCE PROJECTS.</li>
     <li>Each entry should list the: (1) COMPANY name, (2) link(s) to blog post or page proving the support.</li>
   </ul>
-</details> 
+</details>
 
 # 🇦🇺 Australia
 
@@ -41,6 +41,10 @@
 # 🇨🇿 Czech Republic
 
 - [Avocode](https://avocode.com/)
+
+# 🇭🇷 Croatia
+
+- [Infinum](https://infinum.co/our-stuff#open-source)
 
 # 🇫🇮 Finland
 
